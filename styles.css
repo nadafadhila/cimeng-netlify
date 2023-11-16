@@ -9,4 +9,15 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
+}
+
+p {
+    width: 700px;
+    max-width: 100%;
+    line-height: 28px;
+}
+
+img {
+    margin-top: 20px;
 }
