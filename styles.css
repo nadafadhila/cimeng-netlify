@@ -18,6 +18,10 @@ p {
     line-height: 28px;
 }
 
+a {
+    color: #6E717A;
+}
+
 img {
     margin-top: 20px;
 }
